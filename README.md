@@ -1,5 +1,5 @@
 # Chancery
-Chancery is a module for creating various represantations of a user.
+Chancery is a module for creating various representations of a user.
 
 ## Usage
 ```python
